@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta name="keywords" content="Aye Myat Mon, Seventeen, Myanmar"/>
+<meta name="author" content="Aye Myat Mon"/>
+<meta name="description" content="Aye Myat Mon">
+<meta charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="../css/mystyle.css"/>
+<meta name="robots" content="follow"/>
+<title>interests</title>
+</head>
+
+<body>
+<header>
+<img src="../images/header.jpg" alt="Aye Myat Mon, Once upon in Bangkok" class="center">
+</header>
+
+<br><br>
+<div style="text-align:center">
+<a href="../html/home.html">Home</a>
+<a href="../html/resume.html">Resume</a>
+<a href="../html/interests.html">Interests</a>
+<a href="../html/reflections.html">Reflections</a>
+<a href="../html/guestbook.html">Guestbook</a>
+</div>
+<br><br>
+
+<p> 
+Here are a few channel that I frequently watch.
+</p>
+
+<br>
+<a style="background-color: rgb(204, 204, 204);" href="https://www.youtube.com/@HYBELABELS" target="_blank">HYBE LABELS</a>
+<br>
+
+<br>
+<a style="background-color: rgb(204, 204, 204);" href="https://www.youtube.com/@pledis17" target="_blank">SEVENTEEN</a>
+<br>
+
+<p>
+I like listening to K-pop music. I enjoy watching YouTube videos of my favorite idols dancing. Here are a few clip you can watch.
+</p>
+
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cr_lx0GSfrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gdZLi9oWNZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</br>
+</body>
+</html>

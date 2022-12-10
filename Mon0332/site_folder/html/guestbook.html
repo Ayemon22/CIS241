@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta name="keywords" content="Aye Myat Mon, Seventeen, Myanmar"/>
+<meta name="author" content="Aye Myat Mon"/>
+<meta name="description" content="Aye Myat Mon">
+<meta charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="../css/mystyle.css"/>
+<meta name="robots" content="follow"/>
+<title>Guestbook</title>
+</head>
+
+<body>
+<header>
+<img src="../images/header.jpg" alt="Aye Myat Mon, Once upon in Bangkok" class="center">
+</header>
+
+<br><br>
+<div style="text-align:center">
+<a href="../html/home.html">Home</a>
+<a href="../html/resume.html">Resume</a>
+<a href="../html/interests.html">Interests</a>
+<a href="../html/reflections.html">Reflections</a>
+<a href="../html/guestbook.html">Guestbook</a>
+</div>
+<br><br>
+<h1 style="text-align:center;">Guestbook</h1>
+<form 
+ method="post"
+ action="http://ss1.ciwcertified.com/cgi-bin/process.pl">
+ 
+Enter Your Name: <input type="text" name="Name" size="40"/>
+</br>
+</br>
+Enter Your Email: <input type="text" name="Email" size="40"/>
+</br>
+</br>
+What country do you live in? <input type="text" name="Country" size="40"/>
+</br>
+</br>
+
+What is your experience as Web Developer?</br>
+<input type="radio" name="web_experience" value="none" checked="checked"/>None</br>
+<input type="radio" name="web_experience" value="beginner" />Beginner</br>
+<input type="radio" name="web_experience" value="immediate" />Immediate</br>
+<input type="radio" name="web_experience" value="advanced" />Advanced
+</br>
+</br>
+
+Should we add you to our mailing list?
+<input type="checkbox" name="mailinglist"/><br/>
+</br>
+</br>
+
+What web technologies are you interested in? (check all that apply):
+</br>
+<select name="interests" multiple="multiple" size="6">
+<option>HTML</option>
+<option>CSS</option>
+<option>JavaScript</option>
+<option>AJAX</option>
+<option>SQL</option>
+<option>PHP</option>
+</select>
+</br>
+</br>
+ 
+How did you find my website? <br/>
+<select name="website">
+<option>Select one</option>
+<option>I'm a friend</option>
+<option>A friend directed me to your site</option>
+<option>School Web Site</option>
+<option>A search engine directed me to your site</option>
+<option>I came across your site by accident</option>
+<option>Other</option>
+</select>
+</br>
+</br>
+
+Comments:<br/>
+<textarea name="comments" cols="50" rows="6">
+Enter your message here.
+</textarea>
+</br>
+</br>
+
+<input type="submit"/>
+<input type="reset"/>
+</form>
+
+</body>
+</html>

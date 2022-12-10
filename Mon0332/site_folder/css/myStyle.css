@@ -1,0 +1,41 @@
+/* STYLE SHEET FOR (personal web site) */
+
+body
+{
+
+    background-color:  #ffe6ff;
+}
+
+h1
+{
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 160%;
+	margin-bottom: 25px;
+	margin-top:0px;
+}
+
+p
+{
+	class="margin";
+	style="font-size:20px;
+}
+
+.banner {
+    background-image: url(images/edmonds.jpg);
+    background-repeat: no-repeat;
+    width: 1800px;
+    height: 450px;
+}
+
+img.center
+{ 
+    display: block; 
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+table, th, td {
+  border:1px solid black;
+}

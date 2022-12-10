@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta name="keywords" content="Aye Myat Mon, Seventeen, Myanmar"/>
+<meta name="author" content="Aye Myat Mon"/>
+<meta name="description" content="Aye Myat Mon">
+<meta charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="../css/mystyle.css"/>
+<meta name="robots" content="follow"/>
+<title>home</title>
+</head>
+
+<body>
+<header>
+<img src="../images/header.jpg" alt="Aye Myat Mon, Once upon in Bangkok" class="center">
+</header>
+
+<br><br>
+<div style="text-align:center">
+<a href="../html/home.html">Home</a>
+<a href="../html/resume.html">Resume</a>
+<a href="../html/interests.html">Interests</a>
+<a href="../html/reflections.html">Reflections</a>
+<a href="../html/guestbook.html">Guestbook</a>
+</div>
+<br><br>
+
+<article>
+<h1 style="text-align:center;">Home Page</h1>
+<p class="margin" style="font-size:20px;">
+My name is Aye Myat Mon. My friends and family call me Aye. I am from Myanmar and currently living in Lynnwood. My hobbies are watching movies and traveling around the world. 
+My MBTI is INFJ and I am Pieces. I'm taking this course because this is required for my degree and I also would like to learn a few things related to web development. 
+I have always wanted to learn HTML even though web development is not my major. I'm working on a CIS General ATA degree. This is my 4th quarter at Edmonds.
+</p>
+<p class="margin" style="font-size:20px;">
+I have not decided which career I will choose but I am currently interested in Database Management. I want to learn more about Database Theory and Design and SQL language. 
+I transferred from Shoreline Community College because they don't offer any CIS-related courses and I found out that Edmonds offers many CIS courses. That's why I transferred to Edmonds. 
+I don't have any experience in the IT field except for taking a few courses related to IT. I would like to apply for an internship at any Company next quarter if I have an opportunity to do so. 
+I am excited to learn new things.
+</p>
+<p class="margin" style="font-size:20px;">
+I like listening to K-pop. I am a big fan of Korean boy bands called BTS and Seventeen. Whenever I feel like giving up, they give me hope that I can achieve everything if I try hard. 
+I love to stay at home most of the time, so I prefer indoor activities like watching movies and reading books. I am an introvert who feels more comfortable focusing on my inner thoughts and ideas. 
+That is why it is hard for me to express myself. I am slowly trying to get out of my comfort zone in the future. 
+</p>
+<p class="margin" style="font-size:20px;">
+Thank you for visiting my site. 
+</p>
+</article>
+</body>
+</html>
